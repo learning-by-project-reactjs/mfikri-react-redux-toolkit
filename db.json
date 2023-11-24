@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Product 1",
+      "price": 899
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "price": 794
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "price": 873
+    },
+    {
+      "title": "Product 4",
+      "price": "756",
+      "id": 4
+    },
+    {
+      "title": "Product 5",
+      "price": "425",
+      "id": 5
+    },
+    {
+      "title": "Motor Yamaha",
+      "price": "6000000",
+      "id": 6
+    },
+    {
+      "title": "Motor Honda Kerangka esaf",
+      "price": "5000000",
+      "id": 7
+    }
+  ]
+}
